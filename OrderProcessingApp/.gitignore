@@ -1,0 +1,118 @@
+# Visual Studio
+.vscode/
+.vscode/*
+*.code-workspace
+.vs/
+.vs/*
+
+# Archivos de construcción
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Archivos de configuración
+appsettings.json
+appsettings.*.json
+
+# Archivos de usuario de Visual Studio
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Archivos de bloqueo de paquetes
+project.lock.json
+project.fragment.lock.json
+
+# NuGet
+*.nupkg
+# NuGet paquetes instalados
+packages/
+# Mono Auto Generated Files
+mono_crash.*
+# Windows imagen miniaturas
+Thumbs.db
+# Carpetas de construcción
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+
+# CMake
+CMakeLists.txt.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Cartera de depuración local
+.vscode/launch.json
+.vscode/tasks.json
+
+# Archivos de configuración de usuario
+.vscode/*.json
+.vscode/*.code-workspace
+
+# GitHub Actions
+/.github/workflows/
+
+# GitHub Pages
+/site/
+
+# Visual Studio Code
+.vscode/
+.history/
+logfile
+*.log
+
+# Rider
+.idea/
+*.sln.iml
+
+# Entorno específico
+local.settings.json
+
+# carpetas
+*/.DS_Store
+*/.DS_Store?  # MacOS files
+*/Thumbs.db  # Windows thumbnail cache
+
+# Logs
+*.log
+*.tlog
+
+# directorios
+.packages
+coverage/
+testresults/
+TestResults/
+TestResults/*.trx
+TestResults/*.xml
+
+# Typescript v1 declaration files
+typings/
+
+# Maven and Gradle project files
+.idea/
+*.iml
+*.ipr
+*.iws
